@@ -8,10 +8,16 @@ This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+✨ Features
+➕ Add tasks
+☑️ Mark tasks as completed
+🗑️ Delete tasks
+✏️ Completed tasks show with strikethrough
+🎨 Simple and clean UI
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Future Updates
+💾 Local data storage
+✏️ Edit tasks
+⏰ Due dates & reminders
+🌙 Dark mode
+🔍 Search & filter
